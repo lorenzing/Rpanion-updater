@@ -1,5 +1,6 @@
 # Rpanion-updater
 Rpanion-server update script
+Find all the documentation on Rpanion-server here: https://github.com/stephendade/Rpanion-server
 
 #Install rpanion-updater
 Connect to RaspberryPi via SSH client
