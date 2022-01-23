@@ -1,0 +1,17 @@
+#!/bin/bash
+#
+# Rpanion-server update utility
+# Lorenzo Franco 2022
+#
+# See Rpanion-server for more info about it:
+# https://github.com/stephendade/Rpanion-server
+#
+
+echo "Rpanion-server update start..."
+
+cd /home/pi/Rpanion-server/
+git pull https://github.com/stephendade/Rpanion-server.git
+
+echo "Update Rpanion-server complete"
+
+exit 0
