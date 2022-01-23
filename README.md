@@ -6,7 +6,7 @@ Connect to RaspberryPi via SSH client
 Download and install rpanion-updater script
 ```
 # cd /etc/init.d
-# sudo wget https://raw.githubusercontent.com/
+# sudo wget https://raw.githubusercontent.com/lorenzing/Rpanion-updater/main/rpanion-updater
 # sudo chmod +x /etc/init.d/rpanion-updater
 ```
 
