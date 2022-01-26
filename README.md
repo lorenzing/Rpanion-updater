@@ -1,5 +1,9 @@
 # Rpanion-updater
 Rpanion-server update script, find all the documentation on Rpanion-server here: https://github.com/stephendade/Rpanion-server
+Update -> Rpanion-server has a built-in update script that can be run like this:
+```
+# cd ./deploy && ./upgrade.sh
+```
 
 # Install rpanion-updater
 Connect to RaspberryPi via SSH client
